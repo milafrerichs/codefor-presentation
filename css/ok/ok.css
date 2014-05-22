@@ -1,3 +1,16 @@
+.reveal h1, .reveal h2, .reveal h3, .reveal h4 {
+  line-height: 1.1em;
+  margin-bottom: 20px;
+}
+.reveal .red{
+  color: #ce263f;
+}
+.reveal .blue {
+  color: #3a9ed7;
+}
+.reveal .green {
+	color: rgba(36, 217, 162, 1.0 );
+}
 small.ok-orange {
 	background-color: rgb(255, 84, 73);
 	font-family: 'Droid Sans Mono', monospace;
